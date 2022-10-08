@@ -8,10 +8,11 @@
 
 .app{
     max-width: 420px;
-    height: 640px;
+    height: 645px;
     margin-top: 20px;
     background-color: black;
     margin: 0 auto;
+    padding: 3px;
     border-radius: 5px;
 }
 nav{

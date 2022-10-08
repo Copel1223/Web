@@ -5,12 +5,14 @@
     font-family: sans-serif;
 }
 
+
 .app{
     max-width: 420px;
     height: 640px;
     margin-top: 20px;
     background-color: black;
     margin: 0 auto;
+    border-radius: 5px;
 }
 nav{
     width:100%;

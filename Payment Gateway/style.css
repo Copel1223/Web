@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app{
+    max-width: 420px;
+    height: 640px;
+    margin-top: 20px;
+    background-color: black;
+}

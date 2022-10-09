@@ -9,6 +9,7 @@
     height: 640px;
     margin-top: 20px;
     background-color: black;
+    margin: 0 auto;
 }
 .desc{
     color: white;

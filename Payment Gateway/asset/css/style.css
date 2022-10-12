@@ -88,6 +88,7 @@ h2{
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
+    gap: 10px;
 }
 .merchant-logo img{
     width: 70px;
